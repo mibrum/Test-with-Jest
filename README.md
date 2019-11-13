@@ -1,12 +1,12 @@
 ## Test with Jest
-In this repo you will see how to test with Jest, a magnificent testing suite for JavaScript. The provided code includes:
+In this repo I wanted to better understand JavaScript testing with Jest, a magnificent testing suite for JavaScript. The provided code includes:
 
   - How to write tests (specs)
   - How to group tests
   - How to take advantage of Snapshot tests
   - Feature WorkFlow tips
 
-This repository is related to the [Test with Jest](https://vueschool.io/courses/test-with-jest) course by Vueschool.io
+This repository is related to the Test with Jest course by [Vue School](https://vueschool.io/)
 
 
 ### Development
